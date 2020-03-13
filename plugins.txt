@@ -38,6 +38,8 @@ config-file-provider
 credentials
 credentials-binding
 display-url-api
+docker
+docker-java-api
 docker-plugin
 docker-commons
 docker-workflow
