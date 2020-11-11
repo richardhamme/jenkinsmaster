@@ -42,7 +42,7 @@ def dockerCloudParameters = [
   dockerHostname:   '',
   name:             'docker.local',
   readTimeout:      60,
-  serverUrl:        'tcp://jenkinslave.internalnf.com:3375',
+  serverUrl:        'tcp://jenkinslave.internaljp.com:3375',
   version:          ''
 ]
 
